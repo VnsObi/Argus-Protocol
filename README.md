@@ -77,4 +77,4 @@ npm run dev
 
 **Data:** Webacy API + On-Chain Oracles
 
-Built by [VNSIS Technologies](https://vnsis.com) — Infrastructure. Systems. Security.
+Built by [VNSIS Technologies](https://vnsis.com) — Systems.Infrastructure.Security.
