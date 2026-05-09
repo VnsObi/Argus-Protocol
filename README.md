@@ -77,5 +77,4 @@ npm run dev
 
 **Data:** Webacy API + On-Chain Oracles
 
-📜 License
-MIT © Evans Obi
+Built by [VNSIS Technologies](https://vnsis.com) — Infrastructure. Systems. Security.
